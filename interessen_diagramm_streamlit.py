@@ -5,7 +5,7 @@ from io import BytesIO
 from collections import defaultdict
 
 # 👉 Beispiel-Datei-URL (bitte anpassen!)
-BEISPIEL_URL = "https://github.com/widmerc/Diagramm/blob/main/Beispieldiagramm.xlsx"
+BEISPIEL_URL = "https://raw.githubusercontent.com/widmerc/Diagramm/main/Beispieldiagramm.xlsx"
 
 st.set_page_config(layout="wide")
 st.title("Interessenpunkte Visualisierung")
